@@ -42,7 +42,6 @@
 
 **Others Technologies**
 [![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js&link=https://github.com/KoZooDev/)](https://github.com/KoZooDev/)
-[![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=Insomnia&link=https://github.com/KoZooDev/)](https://github.com/KoZooDev/)
 [![Postman](https://img.shields.io/badge/-Postman-FFFFFF?style=flat-square&logo=Postman&link=https://github.com/KoZooDev/)](https://github.com/KoZooDev/)
 [![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&link=https://github.com/KoZooDev/)](https://github.com/KoZooDev/)
 [![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&link=https://github.com/KoZooDev/)](https://github.com/KoZooDev/)
