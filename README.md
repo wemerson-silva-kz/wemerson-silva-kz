@@ -25,7 +25,7 @@
 
 **Languages**
 [![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript&link=https://github.com/KoZooDev/)](https://github.com/KoZooDev/)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&link=https://github.com/KoZooDev/)](https://github.com/KoZooDev/)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-59A7EB?style=flat-square&logo=typescript&link=https://github.com/KoZooDev/)](https://github.com/KoZooDev/)
 [![Python](https://img.shields.io/badge/-Python-afd0ea?style=flat-square&logo=Python&link=https://github.com/KoZooDev/)](https://github.com/KoZooDev/)
 [![PHP](https://img.shields.io/badge/-Php-afd0ea?style=flat-square&logo=Php&link=https://github.com/KoZooDev/)](https://github.com/KoZooDev/)
 
@@ -64,4 +64,10 @@
 **Versioning and Communication**
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&link=https://github.com/KoZooDev/)](https://github.com/KoZooDev/)
 [![Discord](https://img.shields.io/badge/-Discord-000000?style=flat-square&logo=Discord&link=https://github.com/KoZooDev/)](https://github.com/KoZooDev/)
+
+
+## Studies
+
+**Languages**
+[![Elixir](https://img.shields.io/badge/-Elixir-309C24?style=flat-square&logo=Elixir&link=https://github.com/KoZooDev/)](https://github.com/KoZooDev/)
 
